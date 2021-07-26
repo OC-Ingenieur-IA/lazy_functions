@@ -1,4 +1,4 @@
-# Nous créons un tas de fonctions utiles tout au long des projet.
+# Fonctions récurrentes lors de la réalisation de projets.
 # Nous les stockons ici pour qu'elles soient facilement accessibles.
 
 import datetime
